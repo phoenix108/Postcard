@@ -13,6 +13,8 @@
 		8BBC6E0019CB6C0A00FE3AD4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BBC6DFF19CB6C0A00FE3AD4 /* Images.xcassets */; };
 		8BBC6E0319CB6C0A00FE3AD4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8BBC6E0119CB6C0A00FE3AD4 /* LaunchScreen.xib */; };
 		8BBC6E0F19CB6C0A00FE3AD4 /* postcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BBC6E0E19CB6C0A00FE3AD4 /* postcardTests.swift */; };
+		8BBC6E1919CBE1B700FE3AD4 /* id23055-normandy-66th_-schools-visit-poppy-choice_-pupils-from-london-city-academy.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8BBC6E1819CBE1B700FE3AD4 /* id23055-normandy-66th_-schools-visit-poppy-choice_-pupils-from-london-city-academy.jpeg */; };
+		8BBC6E1D19CC038C00FE3AD4 /* Unknown.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8BBC6E1C19CC038C00FE3AD4 /* Unknown.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		8BBC6E0819CB6C0A00FE3AD4 /* postcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = postcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BBC6E0D19CB6C0A00FE3AD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8BBC6E0E19CB6C0A00FE3AD4 /* postcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = postcardTests.swift; sourceTree = "<group>"; };
+		8BBC6E1819CBE1B700FE3AD4 /* id23055-normandy-66th_-schools-visit-poppy-choice_-pupils-from-london-city-academy.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "id23055-normandy-66th_-schools-visit-poppy-choice_-pupils-from-london-city-academy.jpeg"; sourceTree = "<group>"; };
+		8BBC6E1C19CC038C00FE3AD4 /* Unknown.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Unknown.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		8BBC6DF619CB6C0A00FE3AD4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				8BBC6E1C19CC038C00FE3AD4 /* Unknown.jpeg */,
+				8BBC6E1819CBE1B700FE3AD4 /* id23055-normandy-66th_-schools-visit-poppy-choice_-pupils-from-london-city-academy.jpeg */,
 				8BBC6DF719CB6C0A00FE3AD4 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,6 +199,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				8BBC6DFE19CB6C0A00FE3AD4 /* Main.storyboard in Resources */,
+				8BBC6E1D19CC038C00FE3AD4 /* Unknown.jpeg in Resources */,
+				8BBC6E1919CBE1B700FE3AD4 /* id23055-normandy-66th_-schools-visit-poppy-choice_-pupils-from-london-city-academy.jpeg in Resources */,
 				8BBC6E0319CB6C0A00FE3AD4 /* LaunchScreen.xib in Resources */,
 				8BBC6E0019CB6C0A00FE3AD4 /* Images.xcassets in Resources */,
 			);
